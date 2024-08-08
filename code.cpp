@@ -8,9 +8,7 @@
  height, air quality, temperature, and light intensity to ensure optimal growing conditions
  for crops.
 
- Created 11 Mar. 2007
- Modified 30 Nov. 2009 by Tom Igoe
- Further modified for Smart Agriculture Robot
+Created for Smart Agriculture Robot 2023 April
 */
 
 #include <OneWire.h>
